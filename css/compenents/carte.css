@@ -1,0 +1,249 @@
+.carte {
+    display: inline-flex;
+flex-wrap: wrap;
+margin-bottom: 50px;
+
+
+}
+
+.carte a {
+font-size: 230px;
+align-items: center;
+padding-top: 30px;
+opacity: 0%
+}
+
+#cod {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/warzone.jpg");
+background-size: cover;
+ transition: opacity 1s ease;
+
+}
+
+
+#cod:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+
+#forza {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/forza.jpg");
+background-size: cover;
+ transition: opacity 1s ease;
+
+
+}
+#forza:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+
+#fortnite {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/cp.png");
+background-size: cover;
+ transition: opacity 1s ease;
+ }
+
+
+#fortnite:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+.tecar:hover {
+
+  background-color: rgba(0,0,0,0.2);
+color: white;
+}
+
+#rdr {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/rdr.jpg");
+background-size: cover;
+ transition: opacity 1s ease;
+
+}
+
+
+#rdr:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+
+#fifa {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/fifa.jpeg");
+background-size: cover;
+ transition: opacity 1s ease;
+
+
+}
+#fifa:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+
+#au {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/au.jpeg");
+background-size: cover;
+ transition: opacity 1s ease;
+ }
+
+
+#au:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+
+#aa {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/warzone.jpg");
+background-size: cover;
+ transition: opacity 1s ease;
+
+}
+
+
+#aa:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+
+#bb {
+
+
+flex-wrap: wrap;
+padding: 40px;
+display: inline-flex;
+align-items: center;
+justify-content:space-between;
+box-shadow:  0px 10px 30px rgba(0,0,0,0.2);
+margin: 10px;
+border-radius: 3px;
+width: 200px;
+height: 300px;
+flex-grow:  1;
+background-image: url("../../images/forza.jpg");
+background-size: cover;
+ transition: opacity 1s ease;
+
+
+}
+#bb:hover {
+
+  background-color: rgba(0,0,0,0.8);
+  opacity: 0.5;
+color: white;
+}
+.tecar:hover {
+
+  background-color: rgba(0,0,0,0.2);
+color: white;
+}
+
+
+.carte img {
+
+  width: 150px;
+  border-radius: 5px;

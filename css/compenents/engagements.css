@@ -1,0 +1,29 @@
+
+.engagements{
+  display: inline-flex;
+  align-items: center;
+  flex: wrap;
+  padding: 20px;
+
+
+
+}
+
+.engagements h3 {
+text-align: center;
+padding-left: 120px;
+
+}
+.engagements img {
+  width: 400px;
+}
+.engagements p {
+;
+  padding-left: 200px;
+  padding-right: 70px;
+  font-size: 17px;
+  width: 600px;
+  text-align: center;
+}
+
+

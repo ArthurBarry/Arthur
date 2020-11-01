@@ -1,0 +1,30 @@
+.card-white {
+  margin-bottom: 50px;
+}
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
+  transition:all 1s;
+}
+
+.list-inline i:hover {
+   transform:scale(1.5); -webkit-transform:scale(1.5);
+}
+.list-inline li {
+  display: inline;
+  padding: 50px;
+  align-items: center;
+}
+
+.list-inline i {
+
+font-size: 30px;
+color: white;
+size: 60px;
+transition:all 1s;
+}
+
+.card-white h2 {
+  text-align: center;
+}

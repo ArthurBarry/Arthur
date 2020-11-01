@@ -1,0 +1,52 @@
+.partenaires img {
+
+margin-left: 60px;
+margin-bottom: 60px;
+padding-left: px;
+width: 1500px;
+align-items: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.partenaires h2 {
+  text-align: center;
+  margin-bottom: 80px;
+  margin-top: 70px;
+}
+
+@media (max-width: 1250px) {
+  .partenaires img {
+    width: 1250px;
+  }
+
+}
+
+
+@media (max-width: 1000px) {
+  .partenaires img {
+    width: 1000px;
+  }
+
+}
+
+@media (max-width: 800px) {
+  .partenaires img{
+    width: 800px;
+  }
+
+}
+
+@media (max-width: 600px) {
+  .partenaires img{
+    width: 600px;
+  }
+
+}
+
+@media (max-width: 500px) {
+  .partenaires img {
+    width: 500px;
+  }
+
+}
